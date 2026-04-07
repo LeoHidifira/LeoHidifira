@@ -14,13 +14,13 @@ I am proactive, self-taught, and driven by challenges, with a strong interest in
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/LeoHidifira">
+  <a href="https://github.com/LeoHidifira" target="blank">
     <img src="https://img.shields.io/badge/GitHub-LEONARDOHIDIFIRA-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/hidifira_/">
+  <a href="https://www.instagram.com/hidifira_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@hidifira_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-yuiti-hidifira/">
+  <a href="https://www.linkedin.com/in/leonardo-yuiti-hidifira/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
