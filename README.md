@@ -4,7 +4,7 @@
 🇧🇷 Brazil
 
 
-I am a Software Engineering student at FIAP, preparing to work as a Full Stack Developer, with a focus on web development and modern applications. I have knowledge in Python, Java, JavaScript, TypeScript, Node.js, HTML, CSS, React Native, and Tailwind CSS, as well as fundamentals in Artificial Intelligence and databases using SQLite. I have hands-on experience with projects involving back-end and front-end development, API creation, data manipulation, and building responsive interfaces, always applying best coding practices.
+I am a Software Engineering student at FIAP, preparing to work as a Full Stack Developer, with a focus on web development and modern applications. I have knowledge in Python, Java, JavaScript, TypeScript, Node.js, HTML, CSS, React JS, and Tailwind CSS, as well as fundamentals in Artificial Intelligence and databases using SQLite. I have hands-on experience with projects involving back-end and front-end development, API creation, data manipulation, and building responsive interfaces, always applying best coding practices.
 
 I am proactive, self-taught, and driven by challenges, with a strong interest in technology, innovation, and continuous learning. I am constantly seeking to grow as a full stack developer by gaining practical experience and improving my skills to build a solid career and contribute to impactful software development projects.
 
